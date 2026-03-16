@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Tamara👋
 
-<!--
-**Tamara-Hassoun/Tamara-Hassoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Technology Engineering student interested in AI, mobile development, and digital technologies.
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Flutter (Dart)
+- Machine Learning Basics
+- computer vision Basics
+- AI 
+- UI/UX Design
+- GitHub
+
+  
+# Projects
+
+- AI PDF Assistant – AI tool for analyzing PDF documents and answering questions based on content  
+- Flutter Pharmacy App – Mobile app for managing pharmacy tasks with doctor login and medicine selection  
+- Flutter Party Organizer + Chatbot – App to plan parties with interactive chatbot and UI for selecting venue, food, and decorations  
+- AI Cancer Dosage Checker – AI project to analyze and optimize medication doses for colon cancer patients  
+l
+
+# Currently Learning
+
+- Advanced Artificial Intelligence
+- Data Analysis and NLP
+- Advanced computer vision
+  
+
+# Contact
+
+Email: hassountamara@gmail.com
+GitHub: https://github.com/Tamara-Hassoun
