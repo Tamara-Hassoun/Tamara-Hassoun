@@ -9,7 +9,6 @@ Information Technology Engineering student interested in AI, mobile development,
 - Machine Learning Basics
 - computer vision Basics
 - AI 
-- UI/UX Design
 - GitHub
 
   
@@ -18,7 +17,7 @@ Information Technology Engineering student interested in AI, mobile development,
 - AI Cancer Dosage Checker – AI project to analyze and optimize medication doses for colon cancer patients 
 - AI PDF Assistant – AI tool for analyzing PDF documents and answering questions based on content  
 - Flutter Pharmacy App (MedLink) – Mobile app for managing pharmacy tasks with doctor login and medicine selection   
- 
+- Flutter Party Organizer + Chatbot – App to plan parties with interactive chatbot and UI for selecting venue, food, and decorations  
 
 
 # Currently Learning
@@ -31,4 +30,4 @@ Information Technology Engineering student interested in AI, mobile development,
 # Contact
 
 Email: hassountamara@gmail.com
-GitHub: https://github.com/Tamara-Hassoun
+
